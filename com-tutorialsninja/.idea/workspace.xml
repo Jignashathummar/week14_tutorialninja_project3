@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="315481e7-37f2-4dbd-80dc-af505de7433d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2ZSMW5R7ZhwnJSOoOURZgBsYTxN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/soft/Homework/week14/week14_nopecommerce_project1/com-tutorialsninja/src/test/java/com/tutorialsninja/demo/testsuits",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\soft\Homework\week14\week14_nopecommerce_project1\com-tutorialsninja\src\test\java\com\tutorialsninja\demo\testsuits" />
+      <recent name="E:\soft\Homework\week14\week14_nopecommerce_project1\com-tutorialsninja\src\main\java\com\tutorialsninja\demo\pages" />
+      <recent name="E:\soft\Homework\week14\week14_nopecommerce_project1\com-tutorialsninja\src\test\java\com\tutorialsninja\demo\resources\runners" />
+      <recent name="E:\soft\Homework\week14\week14_nopecommerce_project1\com-tutorialsninja\src\test\java\com\tutorialsninja\demo\resources\propertiesfile" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tutorialsninja.demo.resources.testdata" />
+      <recent name="com.tutorialsninja.demo.testbase" />
+      <recent name="com.tutorialsninja.demo.propertyreader" />
+      <recent name="com.tutorialsninja.demo.utilities" />
+      <recent name="com.tutorialsninja.demo.customlistners" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="315481e7-37f2-4dbd-80dc-af505de7433d" name="Changes" comment="" />
+      <created>1696281342907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696281342907</updated>
+    </task>
+    <servers />
+  </component>
+</project>
